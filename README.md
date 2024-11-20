@@ -20,12 +20,12 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/task-management-api.git
+    git clone https://github.com/esykai/pet_project_trello.git
     ```
 
 2. Перейдите в директорию проекта:
     ```bash
-    cd task-management-api
+    cd pet_project_trello
     ```
 
 3. Установите необходимые зависимости:
